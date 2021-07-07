@@ -1,0 +1,7 @@
+[13-Nov-2018 23:18:52 UTC] PHP Fatal error:  Cannot redeclare random_bytes() in /home2/rajuvas/public_html/wp-includes/random_compat/random_bytes_com_dotnet.php on line 81
+[13-Nov-2018 23:19:12 UTC] PHP Fatal error:  Cannot redeclare random_bytes() in /home2/rajuvas/public_html/wp-includes/random_compat/random_bytes_dev_urandom.php on line 148
+[13-Nov-2018 23:19:33 UTC] PHP Fatal error:  Cannot redeclare random_bytes() in /home2/rajuvas/public_html/wp-includes/random_compat/random_bytes_libsodium.php on line 86
+[13-Nov-2018 23:19:54 UTC] PHP Fatal error:  Cannot redeclare random_bytes() in /home2/rajuvas/public_html/wp-includes/random_compat/random_bytes_libsodium_legacy.php on line 86
+[13-Nov-2018 23:20:15 UTC] PHP Fatal error:  Cannot redeclare random_bytes() in /home2/rajuvas/public_html/wp-includes/random_compat/random_bytes_mcrypt.php on line 76
+[13-Nov-2018 23:20:36 UTC] PHP Fatal error:  Cannot redeclare random_bytes() in /home2/rajuvas/public_html/wp-includes/random_compat/random_bytes_openssl.php on line 83
+[13-Nov-2018 23:20:57 UTC] PHP Fatal error:  Cannot redeclare random_int() in /home2/rajuvas/public_html/wp-includes/random_compat/random_int.php on line 191

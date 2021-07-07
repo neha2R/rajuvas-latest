@@ -1,0 +1,12 @@
+06-12-2019 10:09:33 - FATAL - m: 25.6 MB, u: 0 -  - 5.196.87.130 - HTTP method invalid
+06-12-2019 12:16:21 - FATAL - m: 25.6 MB, u: 0 -  - 154.124.69.15 - HTTP method invalid
+14-12-2019 06:48:30 - FATAL - m: 25.6 MB, u: 0 -  - 5.196.87.127 - HTTP method invalid
+18-12-2019 10:48:44 - FATAL - m: 25.6 MB, u: 0 -  - 34.219.137.226 - HTTP method invalid
+19-12-2019 08:45:09 - FATAL - m: 25.6 MB, u: 0 -  - 197.234.221.121 - HTTP method invalid
+24-12-2019 16:24:23 - FATAL - m: 25.6 MB, u: 0 -  - 64.233.173.148 - HTTP method invalid
+24-12-2019 16:24:24 - FATAL - m: 25.6 MB, u: 0 -  - 64.233.173.148 - HTTP method invalid
+24-12-2019 16:24:24 - FATAL - m: 25.6 MB, u: 0 -  - 64.233.173.148 - HTTP method invalid
+27-12-2019 05:33:42 - FATAL - m: 25.7 MB, u: 0 -  - 101.91.60.107 - HTTP method invalid
+27-12-2019 13:30:24 - FATAL - m: 25.6 MB, u: 0 -  - 64.233.173.148 - HTTP method invalid
+27-12-2019 13:30:24 - FATAL - m: 25.6 MB, u: 0 -  - 64.233.173.148 - HTTP method invalid
+27-12-2019 13:30:25 - FATAL - m: 25.6 MB, u: 0 -  - 64.233.173.147 - HTTP method invalid

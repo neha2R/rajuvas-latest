@@ -1,0 +1,1 @@
+ÄH`<?php exit; ?>a:1:{s:7:"content";a:7:{s:20:"newsletter_log_level";b:1;s:18:"megamenu_locations";b:1;s:21:"dismissed_update_core";b:1;s:23:"newsletter_show_welcome";b:1;s:28:"_image_widget_version_plugin";b:1;s:31:"megamenu_multisite_share_themes";b:1;s:22:"megamenu_toggle_blocks";b:1;}}

@@ -1,0 +1,17 @@
+01-11-2019 04:08:47 - FATAL - m: 24.9 MB, u: 0 -  - 64.233.172.46 - HTTP method invalid
+01-11-2019 04:36:32 - FATAL - m: 24.9 MB, u: 0 -  - 64.233.172.44 - HTTP method invalid
+01-11-2019 05:35:08 - FATAL - m: 24.9 MB, u: 0 -  - 64.233.172.44 - HTTP method invalid
+01-11-2019 07:08:36 - FATAL - m: 25.2 MB, u: 0 -  - 64.233.172.42 - HTTP method invalid
+12-11-2019 16:35:03 - FATAL - m: 25.4 MB, u: 0 -  - 101.89.239.230 - HTTP method invalid
+13-11-2019 05:19:04 - FATAL - m: 25.4 MB, u: 0 -  - 1.39.253.225 - HTTP method invalid
+13-11-2019 05:19:10 - FATAL - m: 25.4 MB, u: 0 -  - 1.39.253.225 - HTTP method invalid
+13-11-2019 05:19:14 - FATAL - m: 25.4 MB, u: 0 -  - 1.39.253.225 - HTTP method invalid
+13-11-2019 05:19:20 - FATAL - m: 25.4 MB, u: 0 -  - 1.39.253.225 - HTTP method invalid
+13-11-2019 12:35:48 - FATAL - m: 25.6 MB, u: 0 -  - 64.233.173.147 - HTTP method invalid
+13-11-2019 12:35:50 - FATAL - m: 25.6 MB, u: 0 -  - 64.233.173.147 - HTTP method invalid
+13-11-2019 12:35:50 - FATAL - m: 25.6 MB, u: 0 -  - 64.233.173.149 - HTTP method invalid
+18-11-2019 08:59:31 - FATAL - m: 25.6 MB, u: 0 -  - 1.39.245.218 - HTTP method invalid
+18-11-2019 09:00:26 - FATAL - m: 25.6 MB, u: 0 -  - 1.39.245.218 - HTTP method invalid
+18-11-2019 09:00:39 - FATAL - m: 25.6 MB, u: 0 -  - 1.39.245.218 - HTTP method invalid
+18-11-2019 23:06:00 - FATAL - m: 25.6 MB, u: 0 -  - 35.163.115.78 - HTTP method invalid
+28-11-2019 11:00:42 - FATAL - m: 25.6 MB, u: 0 -  - 157.47.200.157 - HTTP method invalid

@@ -1,0 +1,8 @@
+30-10-2019 13:38:18 - FATAL - m: 26.0 MB, u: 0 -  - 66.249.64.168 - HTTP method invalid
+31-10-2019 15:29:18 - FATAL - m: 26.2 MB, u: 0 -  - 64.233.172.42 - HTTP method invalid
+31-10-2019 15:29:22 - FATAL - m: 26.2 MB, u: 0 -  - 64.233.172.38 - HTTP method invalid
+31-10-2019 15:30:19 - FATAL - m: 26.0 MB, u: 0 -  - 64.233.173.40 - HTTP method invalid
+31-10-2019 15:32:07 - FATAL - m: 26.2 MB, u: 0 -  - 64.233.173.42 - HTTP method invalid
+31-10-2019 15:33:56 - FATAL - m: 26.0 MB, u: 0 -  - 157.47.170.2 - HTTP method invalid
+31-10-2019 15:35:10 - FATAL - m: 26.0 MB, u: 0 -  - 64.233.172.42 - HTTP method invalid
+31-10-2019 16:09:36 - FATAL - m: 26.2 MB, u: 0 -  - 64.233.172.38 - HTTP method invalid

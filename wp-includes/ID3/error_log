@@ -1,0 +1,86 @@
+[08-Aug-2015 15:40:44 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[08-Aug-2015 15:44:31 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.id3v1.php on line 19
+[08-Aug-2015 15:48:18 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[08-Aug-2015 15:55:52 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[08-Aug-2015 16:07:13 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.mp3.php on line 26
+[08-Aug-2015 16:11:00 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[08-Aug-2015 16:14:47 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.apetag.php on line 18
+[08-Aug-2015 16:22:21 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[08-Aug-2015 16:29:55 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[08-Aug-2015 17:22:53 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[08-Aug-2015 17:41:48 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76
+[08-Aug-2015 18:15:51 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[08-Aug-2015 19:08:49 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[08-Aug-2015 19:16:23 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[09-Oct-2016 17:15:11 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[09-Oct-2016 17:15:14 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.id3v1.php on line 19
+[09-Oct-2016 17:15:18 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[09-Oct-2016 17:15:21 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[09-Oct-2016 17:15:24 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.mp3.php on line 26
+[09-Oct-2016 17:15:27 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[09-Oct-2016 17:15:30 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.apetag.php on line 18
+[09-Oct-2016 17:15:39 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[09-Oct-2016 17:15:48 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[09-Oct-2016 17:16:13 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[09-Oct-2016 17:16:16 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76
+[09-Oct-2016 17:16:31 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[09-Oct-2016 17:17:12 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[09-Oct-2016 17:17:17 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[06-May-2017 02:15:38 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[20-May-2017 18:33:24 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[20-May-2017 18:34:31 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76
+[20-May-2017 19:37:34 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[21-May-2017 03:27:43 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[25-May-2017 06:25:02 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.mp3.php on line 26
+[16-Jun-2017 12:03:16 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.apetag.php on line 18
+[16-Jun-2017 12:12:51 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[16-Jun-2017 18:52:51 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[16-Jun-2017 18:57:32 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[20-Jun-2017 09:13:59 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[27-Apr-2018 19:46:38 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.ac3.php on line 19
+[27-Apr-2018 19:46:39 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.id3v1.php on line 19
+[27-Apr-2018 19:46:39 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[27-Apr-2018 19:46:40 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[27-Apr-2018 19:46:40 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.mp3.php on line 26
+[27-Apr-2018 19:46:42 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.dts.php on line 22
+[27-Apr-2018 19:46:44 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.apetag.php on line 18
+[27-Apr-2018 19:46:47 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[27-Apr-2018 19:46:50 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 19
+[27-Apr-2018 19:46:53 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[27-Apr-2018 19:46:54 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76
+[27-Apr-2018 19:46:55 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[27-Apr-2018 19:47:02 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 217
+[27-Apr-2018 19:47:06 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[30-Apr-2018 16:19:47 UTC] PHP Fatal error:  Class 'getid3_lib' not found in /home/rajuvas/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[13-Nov-2018 21:53:37 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/rajuvas/public_html/wp-includes/ID3/module.audio-video.asf.php on line 17
+[13-Nov-2018 21:53:57 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.audio-video.flv.php on line 76
+[13-Nov-2018 21:54:18 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[13-Nov-2018 21:54:39 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/rajuvas/public_html/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[13-Nov-2018 21:55:00 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home2/rajuvas/public_html/wp-includes/ID3/module.audio-video.riff.php on line 26
+[13-Nov-2018 21:55:21 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.audio.ac3.php on line 18
+[13-Nov-2018 21:55:42 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.audio.dts.php on line 21
+[13-Nov-2018 21:56:03 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/rajuvas/public_html/wp-includes/ID3/module.audio.flac.php on line 18
+[13-Nov-2018 21:56:25 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.audio.mp3.php on line 25
+[13-Nov-2018 21:56:47 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/rajuvas/public_html/wp-includes/ID3/module.audio.ogg.php on line 17
+[13-Nov-2018 21:57:08 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.tag.apetag.php on line 17
+[13-Nov-2018 21:57:29 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.tag.id3v1.php on line 18
+[13-Nov-2018 21:57:51 UTC] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/rajuvas/public_html/wp-includes/ID3/module.tag.id3v2.php on line 17
+[13-Nov-2018 21:58:12 UTC] PHP Fatal error:  Class 'getid3_handler' not found in /home2/rajuvas/public_html/wp-includes/ID3/module.tag.lyrics3.php on line 18

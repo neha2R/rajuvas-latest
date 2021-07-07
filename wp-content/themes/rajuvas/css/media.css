@@ -1,0 +1,978 @@
+@media (max-width :1450px){
+    #mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-megamenu > ul.mega-sub-menu{
+	    padding: 15px 0px 35px 10%;
+	}
+	#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-megamenu > ul.mega-sub-menu li.mega-menu-columns-2-of-9{
+	    width: 24%;
+	}
+	#mega-menu-wrap-primary #mega-menu-primary > li.mega-menu-item > a.mega-menu-link{
+	    padding: 1px 15px 1px 15px;
+	}
+}
+
+@media screen and (min-width :1300px) and (max-width :1572px) {
+	.logo-title {
+		/*font-size:28px*/
+	}
+	#social-media {
+		right: 0;
+		bottom: -45px
+	}
+	#updates {
+		width: 39%;
+		padding-left: 0
+	}
+	.institute-block ul li a {
+		font-size: 14px;
+		padding: 8px 5px 8px 10px
+	}
+	.introduction-block:last-child {
+		width: 37%
+	}
+	.introduction-block {
+		width: 30%
+	}
+	.introduction-block:first-child {
+		width: 25%;
+		padding: 28px 0px 0px 39px;
+	}
+	#introduction {
+		width: 57%
+	}
+	.institute-block {
+		float: left;
+		width: auto;
+		margin-left: 21px!important
+	}
+	#nav>#mega-menu-wrap-primary-3 #mega-menu-primary-3 a {
+		padding: 1px 19.9px;
+		background-position: 2% 55%
+	}
+	.rajuvas-project-block h3 {
+		font-size: 16px;
+		padding: 8px 0
+	}
+	#social-widget-2 {
+		width: 12%
+	}
+	.rajuvas-project-block {
+		margin-left: 19px!important;
+		width: 23.6%
+	}
+	#faculty_info_tab td {
+		width: 186px
+	}
+	.show-all {
+		float: right
+	}
+	.serch-descipline {
+		width: 83%
+	}
+	.search_faculty {
+		width: 98.4%
+	}
+	.callbacks_nav {
+		right: 12.6%
+	}
+}
+
+@media (max-width :1023px){
+    #header-inner {
+        width: 94%;
+    }
+    .logo-title {
+        font-size: 12px;
+    }
+    #header-top-right {
+        width: 100%;
+        text-align: right;
+    }
+    #options {
+        display: inline-block;
+        margin-right: 10px;
+    }
+    .social-bookmarks li a {
+        font-size: 0;
+    }
+    #social-media {
+        margin-top: 6px;
+    }
+    .menu-inter{
+        display: block;
+        margin-bottom: 0px;
+    }
+    .menu-value{
+        display: none;
+    }
+    .inner-top{
+        background: #f6f6f6;
+    }
+    #mega-menu-wrap-primary{
+        display: none;
+    }
+}
+
+@media screen and (min-width :1024px) and (max-width :1299px) {
+	.logo-title {
+		/*font-size:24px;padding:9px 19px*/
+	}
+	#nav>#mega-menu-wrap-primary-3 #mega-menu-primary-3 a {
+		padding: 1px 10px!important
+	}
+	.callbacks_nav {
+		right: 12.8%
+	}
+	.col3 {
+		width: 229px!important
+	}
+	#nav #mega-menu-wrap-primary-3 #mega-menu-primary-3 li.mega-menu-megamenu ul.mega-sub-menu {
+		padding-left: 15%!important
+	}
+	#mega-menu-item-widget_sp_image-2 img,
+	#mega-menu-item-widget_sp_image-3 img,
+	#mega-menu-item-widget_sp_image-4 img,
+	#mega-menu-item-widget_sp_image-5 img,
+	#mega-menu-item-widget_sp_image-6 img,
+	#mega-menu-item-widget_sp_image-7 img {
+		height: 110px!important
+	}
+	#tabs li a,
+	#tabs2 li a,
+	#tabs3 li a,
+	#tabs4 li a,
+	#tabs5 li a {
+		padding: 10px 0!important
+	}
+	#tabs li,
+	#tabs2 li,
+	#tabs3 li,
+	#tabs4 li,
+	#tabs5 li {
+		margin-right: 2px;
+		width: 23.65%!important
+	}
+	#introduction {
+		width: 100%;
+	}
+	#categories-sidebar {
+		width: 30%;
+	}
+	#updates {
+		width: 100%;
+		padding-left: 0
+	}
+	.tab-content li {
+		padding: 5px 0 10px 17px
+	}
+	.introduction-block {
+		float: left;
+		width: 31%
+	}
+	.introduction-block:first-child {
+		/*width: 28%;*/
+		padding: 14px 0 0 29px
+	}
+	.introduction-block:last-child {
+		width: 27%;
+		margin-left: 34px
+	}
+	.institute-block:nth-child(3) ul {
+		border-right: 1px solid #dacdc2!important
+	}
+	.person-intro {
+		float: left;
+		padding: 6px 0 0
+	}
+	.rajuvas-project-block {
+		margin-left: 14px;
+		width: 23.7%
+	}
+	.rajuvas-project-block h3 {
+		font-size: 15px
+	}
+	#tabs_container {
+		width: 95.2%!important;
+		min-height: 412px!important;
+		overflow: hidden
+	}
+	.search {
+		margin-top: 10px
+	}
+	.institute-block {
+		margin-left: 0;
+		width: 100%;
+		float: none
+	}
+	#text-2 {
+		padding: 0
+	}
+	#text-3 {
+		width: 26%;
+		padding: 0 0 0 18px
+	}
+	#newsletterwidget-2 {
+		width: 24%;
+		padding: 0 0 0 19px
+	}
+	#faculty_info_tab td {
+		width: 154px
+	}
+	#officer-image {
+		height: 168px;
+		width: 108px
+	}
+	#officer-image img {
+		width: 112px;
+		height: 147px
+	}
+	#faculty-image {
+		height: 126px;
+		width: 110px
+	}
+	#faculty-image img {
+		width: 100px;
+		height: 120px
+	}
+	.show-all {
+		float: right
+	}
+	.serch-descipline {
+		width: 80%
+	}
+	.search_faculty {
+		width: 98.4%
+	}
+	.select-tab {
+		padding: 10px 20px !important;
+	}
+}
+
+@media screen and (min-width :800px) and (max-width :1023px) {
+	.logo-title {
+		/*font-size:19px;padding:9px 19px*/
+	}
+	.col3 {
+		width: 190px!important
+	}
+	#nav>#mega-menu-wrap-primary-3 {
+		display: none
+	}
+	#click-menu {
+		top: 23px!important;
+		background: #2c7ef6!important;
+		padding: 5px;
+		z-index: 9999
+	}
+	#updates {
+		width: 100%;
+		padding-left: 0;
+		overflow: hidden
+	}
+	#tabs,
+	#tabs2,
+	#tabs3,
+	#tabs4,
+	#tabs5 {
+		height: 306px;
+		overflow: hidden
+	}
+	#introduction {
+		width: 100%
+	}
+	.introduction-block {
+		width: 40%
+	}
+	.rajuvas-project-block {
+		width: 48.4%;
+		margin-top: 10px
+	}
+	.rajuvas-project-block:nth-child(2n+1) {
+		margin-left: 0
+	}
+	.rajuvas-project-block h3 {
+		font-size: 16px
+	}
+	#tabs_container {
+		width: 98%!important;
+		height: auto
+	}
+	#tabs li,
+	#tabs2 li,
+	#tabs3 li,
+	#tabs4 li,
+	#tabs5 li {
+		width: 24.30%!important
+	}
+	.tab-content li {
+		padding: 10px 0 10px 22px
+	}
+	.search {
+		margin-top: 10px
+	}
+	.virtual-tour h4 {
+		font-size: 16px
+	}
+	.institute-block {
+		float: left;
+		width: 31.5%;
+		margin-left: 16px
+	}
+	#text-2 {
+		padding: 0;
+		width: 32%
+	}
+	#text-3 {
+		width: 32%;
+		padding: 0 0 0 18px
+	}
+	#newsletterwidget-2 {
+		width: 30%;
+		padding: 0 0 0 19px
+	}
+	#social-widget-2 {
+		display: none
+	}
+	.newsletter-email {
+		padding: 6px 24px 7px 12px
+	}
+	#faculty_info_tab td {
+		width: 195px
+	}
+	.show-all {
+		float: right
+	}
+	.serch-descipline {
+		width: 84%
+	}
+	.search_faculty {
+		width: 98.4%
+	}
+	.select-tab {
+		padding: 10px 20px !important;
+	}
+	#categories-sidebar {
+		width: 100%;
+	}
+}
+
+@media screen and (min-width :620px) and (max-width :799px) {
+	.logo-title {
+		/*font-size:19px;padding:9px 19px*/
+	}
+	.col3 {
+		width: 220px!important
+	}
+	#nav>#mega-menu-wrap-primary-3 {
+		display: none
+	}
+	.callbacks_nav {
+		right: 16%
+	}
+	#click-menu {
+		top: 23px!important;
+		background: #2c7ef6!important;
+		padding: 5px;
+		z-index: 9999
+	}
+	#updates {
+		width: 100%;
+		padding-left: 0;
+		overflow: hidden
+	}
+	#tabs,
+	#tabs2,
+	#tabs3,
+	#tabs4,
+	#tabs5 {
+		height: 412px;
+		overflow: hidden
+	}
+	#introduction {
+		width: 100%
+	}
+	.introduction-block {
+		width: 31%
+	}
+	.rajuvas-project-block {
+		width: 48%;
+		margin-top: 10px
+	}
+	.rajuvas-project-block:nth-child(2n+1) {
+		margin-left: 0
+	}
+	.rajuvas-project-block h3 {
+		font-size: 16px
+	}
+	#tabs_container {
+		width: 98%!important;
+		height: auto
+	}
+	#tabs li,
+	#tabs2 li,
+	#tabs3 li,
+	#tabs4 li,
+	#tabs5 li {
+		width: 23%!important
+	}
+	.search {
+		margin-top: 10px
+	}
+	.virtual-tour h4 {
+		font-size: 16px
+	}
+	.institute-block {
+		float: left;
+		width: 31%;
+		margin-left: 16px
+	}
+	#text-2 {
+		padding: 0;
+		width: 30%
+	}
+	#text-3 {
+		width: 32%;
+		padding: 0 0 0 18px
+	}
+	.mail-at {
+		word-break: break-all
+	}
+	#newsletterwidget-2 {
+		width: 30%;
+		padding: 0 0 0 19px
+	}
+	#social-widget-2 {
+		display: none
+	}
+	.newsletter-email {
+		padding: 6px 24px 7px 12px
+	}
+	.person-intro {
+		padding: 0
+	}
+	.introduction-block:first-child {
+		width: 21%
+	}
+	.introduction-block:last-child {
+		width: 29%
+	}
+	.institute-block h1 {
+		font-size: 16px;
+		text-align: center
+	}
+	#faculty_info_tab td {
+		width: 154px;
+		font-size: 13px!important
+	}
+	#officer-image {
+		height: 180px;
+		width: 137px
+	}
+	#officer-image img {
+		width: 112px;
+		height: 147px;
+		margin-top: 17px
+	}
+	#faculty-image {
+		height: 180px;
+		width: 137px
+	}
+	#faculty-image img {
+		width: 112px;
+		height: 147px;
+		margin-top: 17px
+	}
+	.show-all {
+		float: right
+	}
+	.serch-descipline {
+		width: 80%
+	}
+	.search_faculty {
+		width: 98.4%
+	}
+	.select-tab {
+		padding: 10px 20px !important;
+	}
+	#categories-sidebar {
+		width: 100%;
+	}
+}
+
+@media (max-width: 767px){
+    #header-inner{
+        width: 100%;
+        padding: 0px 10px;
+        box-sizing: border-box;
+    }
+    .logo-text {
+        margin-left: 5px;
+        float: left;
+    }
+   
+    #click-menu {
+        top: 12px!important;
+        background: #2c7ef6!important;
+        right: 8px;
+    }
+    #click-menu.admin-bar-showing {
+        margin-top: 62px;
+    }
+}
+
+@media screen and (min-width :480px) and (max-width :619px) {
+	.logo-title {
+		font-size: 11px;
+		float: left;
+		padding: 10px 0px
+	}
+	#nav>#mega-menu-wrap-primary-3 {
+		display: none
+	}
+	#click-menu {
+		top: 23px!important;
+		background: #2c7ef6!important;
+		padding: 5px;
+		z-index: 9999
+	}
+	#menu-header-top-menu li a {
+		padding: 0 13px
+	}
+	#updates {
+		width: 100%;
+		padding-left: 0;
+		overflow: hidden
+	}
+	#tabs,
+	#tabs2,
+	#tabs3,
+	#tabs4,
+	#tabs5 {
+		height: 412px;
+		overflow: hidden
+	}
+	#introduction {
+		width: 100%
+	}
+	.introduction-block {
+		width: 37.7%
+	}
+	.rajuvas-project-block {
+		width: 47%;
+		margin-top: 10px
+	}
+	.rajuvas-project-block:nth-child(2n+1) {
+		margin-left: 0
+	}
+	.rajuvas-project-block h3 {
+		font-size: 16px
+	}
+	#tabs_container {
+		width: 98%!important;
+		height: auto
+	}
+	#tabs li,
+	#tabs2 li,
+	#tabs3 li,
+	#tabs4 li,
+	#tabs5 li {
+		width: 23%!important
+	}
+	.search {
+		margin-top: 10px
+	}
+	.institute-block {
+		float: none!important;
+		width: 100%;
+		margin: 0 auto;
+		display: block;
+		text-align: center
+	}
+	.institute-block:first-child {
+		margin: 0 auto
+	}
+	.institute-block ul {
+		border: none
+	}
+	#text-2 {
+		padding: 0;
+		width: 47%
+	}
+	#text-3 {
+		width: 48%;
+		padding: 0 0 0 18px
+	}
+	.mail-at {
+		word-break: break-all
+	}
+	#newsletterwidget-2,
+	#social-widget-2 {
+		display: none
+	}
+	.newsletter-email {
+		padding: 6px 0 7px 7px
+	}
+	.person-intro {
+		padding: 0
+	}
+	.introduction-block:first-child {
+		width: 21%
+	}
+	.introduction-block:last-child {
+		width: 29%
+	}
+	.institute-block h1 {
+		font-size: 16px;
+		text-align: center
+	}
+	.institute-block ul li a {
+		background-position: 25%;
+		background: none !important;
+	}
+	.callbacks_nav {
+		right: 17.7%
+	}
+	#footer {
+		padding: 11px 0 0
+	}
+	.copyright {
+		font-size: 12px
+	}
+	#officer-image {
+		height: 171px;
+		width: 137px;
+		float: left;
+		margin-top: 14px
+	}
+	#officer-image img {
+		width: 112px;
+		height: 147px;
+		margin-top: 12px
+	}
+	#faculty-image {
+		height: 171px;
+		width: 137px;
+		float: left;
+		margin-top: 14px
+	}
+	#faculty-image img {
+		width: 112px;
+		height: 147px;
+		margin-top: 12px
+	}
+	.show-all {
+		float: right
+	}
+	.serch-descipline {
+		width: 74%
+	}
+	#page-title-inner h2 {
+		font-size: 28px;
+		padding: 7px 0
+	}
+	.pure-table th {
+		width: auto;
+		font-size: 12px
+	}
+	.pure-table td {
+		font-size: 12px;
+		height: auto;
+		width: auto
+	}
+	.search_faculty {
+		width: 98%
+	}
+	.other_link ul li {
+		float: left;
+		list-style: none;
+		margin-right: 10px;
+		clear: both;
+		margin-bottom: 10px;
+		width: 100%;
+		text-align: center;
+	}
+	.select-tab {
+		padding: 10px 20px !important;
+	}
+	#categories-sidebar {
+		width: 100%;
+	}
+}
+@media (max-width: 479px){
+    #social-media{
+        float: none;
+        display: inline-block;
+    }
+    #header-top-right{
+        text-align: center;
+  margin-top: 24px;
+
+    }
+}
+@media screen and (min-width :320px) and (max-width :479px) {
+	.logo-title {
+		float: left;
+		padding: 6px 7px 0 5px;
+		text-align: center;
+		position: relative;
+		top: 24px;
+	}
+	#about-rajuvas {
+		padding: 0
+	}
+	#nav>#mega-menu-wrap-primary-3 {
+		display: none
+	}
+	#click-menu {
+		top: 27px!important;
+		background: #2c7ef6!important;
+		padding: 5px;
+		z-index: 9999
+	}
+	#faculty-search input[type=submit] {
+		padding: 8px 34px;
+		margin-left: 0
+	}
+	#options {
+		display: none
+	}
+	.slider-strip {
+		font-size: 15px
+	}
+	.introduction-block {
+		width: 56.9%;
+		position: relative;
+		left: 15px;
+	}
+	.person-intro {
+		padding: 0
+	}
+	.introduction-block:first-child {
+		display: none
+	}
+	.introduction-block:last-child {
+		width: 42%
+	}
+	#updates {
+		width: 100%;
+		padding-left: 0;
+		overflow: hidden
+	}
+	#tabs,
+	#tabs2,
+	#tabs3,
+	#tabs4,
+	#tabs5 {
+		height: 412px;
+		overflow: hidden
+	}
+	#introduction,
+	.size-full {
+		width: 100%
+	}
+	.rajuvas-project-block {
+		width: 100%;
+		margin-top: 10px;
+		margin-left: 0
+	}
+	.rajuvas-project-block:nth-child(2n+1) {
+		margin-left: 0
+	}
+	.rajuvas-project-block h3 {
+		font-size: 16px
+	}
+	#tabs_container {
+		width: 94.2%!important;
+		height: auto
+	}
+	#tabs li,
+	#tabs2 li,
+	#tabs3 li,
+	#tabs4 li,
+	#tabs5 li {
+		width: 31.7%!important
+	}
+	.search {
+		margin-top: 10px
+	}
+	.virtual-tour h4 {
+		font-size: 13px
+	}
+	.institute-block {
+		float: none!important;
+		width: 100%;
+		margin: 0 auto;
+		display: block;
+		text-align: center
+	}
+	.institute-block:first-child {
+		margin: 0 auto
+	}
+	.institute-block ul {
+		border: none
+	}
+	.institute-block ul li a {
+		background-position: 8% 52%;
+		background: none !important;
+	}
+	#updates h1 {
+		font-size: 15px
+	}
+	#tabs li a,
+	#tabs2 li a,
+	#tabs3 li a,
+	#tabs4 li a,
+	#tabs5 li a {
+		font-size: 12px!important;
+		padding: 10px 9.99px!important
+	}
+	.tab-content li {
+		padding: 0 0 10px 11px
+	}
+	#text-2 {
+		padding: 0;
+		width: 100%;
+		background: 0 0;
+		text-align: center
+	}
+	#text-2 p {
+		font-size: 12px
+	}
+	#text-3 {
+		width: 100%;
+		padding: 0;
+		background: 0 0;
+		text-align: center;
+		margin-top: 10px
+	}
+	.widget-title {
+		font-size: 18px
+	}
+	.contactnum {
+		font-size: 12px
+	}
+	#footer-bottom {
+		margin-top: 10px;
+		text-align: center
+	}
+	.company {
+		float: none;
+		text-align: center
+	}
+	.mail-at {
+		word-break: break-all;
+		font-size: 12px
+	}
+	#newsletterwidget-2,
+	#social-widget-2 {
+		display: none
+	}
+	.institute-block h1 {
+		font-size: 15px;
+		text-align: center
+	}
+	.callbacks_nav {
+		display: none
+	}
+	#footer {
+		padding: 11px 0 0
+	}
+	.copyright {
+		font-size: 12px
+	}
+	#logo img {
+		
+		width: inherit;
+	}
+	#about-rajuvas p {
+		font-size: 12px
+	}
+	#about-rajuvas h1 {
+		font-size: 16px
+	}
+	#faculty-image,
+	#officer-image {
+		height: 171px;
+		width: 137px;
+		float: left;
+		margin-top: 14px
+	}
+	#page-title-inner h2 {
+		font-size: 21px;
+		padding: 10px 0
+	}
+	#faculty_info_tab td {
+		font-size: 12px!important
+	}
+	.accordion-header {
+		font-size: 14px
+	}
+	.accordion-content h4 {
+		font-size: 13px
+	}
+	#faculty-image img,
+	#officer-image img {
+		width: 112px;
+		height: 147px;
+		margin-top: 12px
+	}
+	.show-all {
+		float: right;
+		padding: 7.5px 22px
+	}
+	.serch-descipline {
+		width: 62%;
+		height: 33px
+	}
+	#faculty-search {
+		margin-top: 10px
+	}
+	#fscf_email1,
+	#fscf_field1_4,
+	#fscf_field1_5,
+	#fscf_field1_6,
+	#fscf_name1 {
+		width: 51%!important
+	}
+	#fscf_submit1 {
+		padding: 4px 27px!important
+	}
+	#main-page-image img {
+		height: 78px
+	}
+	.pure-table th {
+		width: auto;
+		font-size: 12px
+	}
+	.pure-table td {
+		font-size: 11px;
+		height: auto;
+		width: auto
+	}
+	#mail-details {
+		width: 100%;
+		overflow: hidden;
+		display: none
+	}
+	.mainpage-pdf {
+		top: 19px;
+		padding: 7px 14px
+	}
+	.search_faculty {
+		width: 96%
+	}
+	.other_link ul li {
+		float: left;
+		list-style: none;
+		margin-right: 10px;
+		clear: both;
+		margin-bottom: 10px;
+		width: 100%;
+		text-align: center;
+	}
+	.select-tab {
+		padding: 10px 20px !important;
+	}
+	#categories-sidebar {
+		width: 100%;
+	}
+}

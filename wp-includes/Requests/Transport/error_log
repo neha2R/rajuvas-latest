@@ -1,0 +1,5 @@
+[18-Jun-2017 02:58:22 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/rajuvas/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15
+[27-Apr-2018 19:48:29 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/rajuvas/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[27-Apr-2018 19:49:16 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/rajuvas/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15
+[14-Nov-2018 06:50:30 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home2/rajuvas/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[14-Nov-2018 06:51:03 UTC] PHP Fatal error:  Interface 'Requests_Transport' not found in /home2/rajuvas/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15

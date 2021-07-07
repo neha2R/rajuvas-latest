@@ -1,0 +1,4 @@
+[21-Feb-2017 08:59:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/rajuvas/public_html/wp-content/themes/bikanervetcol/index.php on line 1
+[19-Mar-2018 17:34:29 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/rajuvas/public_html/wp-content/themes/bikanervetcol/header.php on line 2
+[20-Mar-2018 00:46:38 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/rajuvas/public_html/wp-content/themes/bikanervetcol/header.php on line 2
+[20-Mar-2018 19:37:39 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/rajuvas/public_html/wp-content/themes/bikanervetcol/header.php on line 2

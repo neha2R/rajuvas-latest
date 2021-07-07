@@ -1,0 +1,4 @@
+[27-Apr-2018 19:48:36 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/rajuvas/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[27-Apr-2018 19:49:06 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home/rajuvas/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[14-Nov-2018 06:41:46 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home2/rajuvas/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[14-Nov-2018 09:05:12 UTC] PHP Fatal error:  Class 'Requests_Exception' not found in /home2/rajuvas/public_html/wp-includes/Requests/Exception/HTTP.php on line 13

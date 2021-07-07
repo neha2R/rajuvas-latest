@@ -1,0 +1,2 @@
+[27-Apr-2018 19:47:03 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/rajuvas/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[13-Nov-2018 23:23:13 UTC] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home2/rajuvas/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

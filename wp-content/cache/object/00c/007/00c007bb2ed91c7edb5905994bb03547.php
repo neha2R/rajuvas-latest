@@ -1,0 +1,16 @@
+ÄH`<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:109;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-12-23 21:50:54";s:13:"post_date_gmt";s:19:"2014-12-23 16:20:54";s:12:"post_content";s:2318:"<span style="color: #0000ff;"><strong>1 Raj. R&amp;VNCC Squadron, CVAS, Bikaner</strong></span>
+The 1 Raj. R&amp;V Sqn. NCC unit at CVAS Bikaner was established in 1986 and is continuously training the NCC cadets. College of Veterinary &amp; Animal Science, Bikaner NCC unit is associated with Group HQS. NCC Jodhpur. R&amp;VNCC, Squadron is fully equipped with horse line (having 13 army horses), an arena for exercising and show equestrian sports. This facility is available only in this college in the State. The authorised strength of this unit is 200 cadets.
+
+NCC provides institutional training as well as various training camps like National Integration Camp, Advance Leadership Camp, Summer Camp, Rock Climbing, Para Jumping, Mountaineering, Army Attachment Camp,Â Republic Day Camp etc. The cadets of this unit are continuously participating every year in the prestigious Republic Day camp at Delhi where the cadets participated in the different equestrian competitions and won prizes almost every year and bring laurels to NCC unit and college. Many ex-cadets of this unit got a commission in the Indian army and other Para-military forces. 'B' and 'C' certificate examinations and different types of camps are organized every year.
+<table align="center">
+<tbody>
+<tr>
+<td><img class="" src="http://rajuvas.org/wp-content/uploads/2016/01/NCC22.jpg" alt="rajuvas-ncc" width="100%" height="154" /></td>
+<td><img class="" src="http://rajuvas.org/wp-content/uploads/2014/12/rajuvas-ncc-300x209.jpg" alt="rajuvas-ncc" width="100%" height="158" /></td>
+</tr>
+</tbody>
+</table>
+<span style="color: #0000ff;"><strong>2. R&amp;V NCC Battalion at CVAS Navania (Udaipur)</strong></span>
+NCC Directorate has sanctioned an NCC Battalion with full budget &amp; posts at CVAS, Navania (Udaipur). Ministry of Defense has also sanctioned posts of army persons and 26 horses to be posted/transferred in this unit. The foundation stone of this unit has been laid by Hon'ble Vice-Chancellor Prof. (Dr).Col. A.K. Gahlot on 9th September 2014. The building for this unit will include administrative block, 26 horse stalls with storage facilities and quarters for 4-6 employees.
+
+<img class="" src="http://rajuvas.org/wp-content/uploads/2014/12/slidernew_8-300x92.jpg" alt="slidernew_8" width="100%" height="auto" />";s:10:"post_title";s:25:"Remount & Vety. NCC Units";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:28:"remount-veterinary-ncc-units";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2020-01-01 15:27:23";s:17:"post_modified_gmt";s:19:"2020-01-01 09:57:23";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:37:"http://localhost/rajuvas/?page_id=109";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

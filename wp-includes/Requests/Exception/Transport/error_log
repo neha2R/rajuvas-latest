@@ -1,0 +1,2 @@
+[28-Apr-2018 05:57:24 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/rajuvas/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[14-Nov-2018 17:24:48 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home2/rajuvas/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3

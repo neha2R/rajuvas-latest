@@ -1,0 +1,8 @@
+[28-Apr-2018 05:54:25 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/rajuvas/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[28-Apr-2018 05:55:00 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/rajuvas/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[28-Apr-2018 05:55:33 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/rajuvas/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[28-Apr-2018 05:56:08 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/rajuvas/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[14-Nov-2018 07:27:15 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home2/rajuvas/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[14-Nov-2018 07:28:09 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home2/rajuvas/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[14-Nov-2018 07:28:51 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home2/rajuvas/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[14-Nov-2018 07:29:30 UTC] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home2/rajuvas/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17

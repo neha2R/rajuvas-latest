@@ -1,0 +1,2 @@
+[27-Apr-2018 19:48:04 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home/rajuvas/public_html/wp-includes/Requests/Auth/Basic.php on line 18
+[14-Nov-2018 06:39:59 UTC] PHP Fatal error:  Interface 'Requests_Auth' not found in /home2/rajuvas/public_html/wp-includes/Requests/Auth/Basic.php on line 18
